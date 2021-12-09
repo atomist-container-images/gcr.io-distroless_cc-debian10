@@ -1,0 +1,2 @@
+# Tags: sha256-7f20d3df252161f6c3b562db656c6eabafd13a0130035f43c093a648fa9a842b.cosign
+FROM gcr.io/distroless/cc-debian10:sha256-7f20d3df252161f6c3b562db656c6eabafd13a0130035f43c093a648fa9a842b.cosign

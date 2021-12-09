@@ -1,0 +1,2 @@
+# Tags: e3da552fd2013b93c6ff63a02741c687c1f690c1
+FROM gcr.io/distroless/cc-debian10:e3da552fd2013b93c6ff63a02741c687c1f690c1
