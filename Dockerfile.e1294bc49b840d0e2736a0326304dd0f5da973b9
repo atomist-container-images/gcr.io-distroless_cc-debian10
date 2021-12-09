@@ -1,2 +1,2 @@
-# Tags: e1294bc49b840d0e2736a0326304dd0f5da973b9
+# Tags:  e1294bc49b840d0e2736a0326304dd0f5da973b9
 FROM gcr.io/distroless/cc-debian10:e1294bc49b840d0e2736a0326304dd0f5da973b9

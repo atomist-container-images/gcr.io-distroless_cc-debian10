@@ -1,2 +1,2 @@
-# Tags: sha256-5ccf17efcdb656125709b4fba41320aa91c616945fe752a2401dd2b3bfbf91ed.cosign
+# Tags:  sha256-5ccf17efcdb656125709b4fba41320aa91c616945fe752a2401dd2b3bfbf91ed.cosign
 FROM gcr.io/distroless/cc-debian10:sha256-5ccf17efcdb656125709b4fba41320aa91c616945fe752a2401dd2b3bfbf91ed.cosign

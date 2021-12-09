@@ -1,2 +1,2 @@
-# Tags: dbe7e4ddd382b4b6ea4dc08b06692729e3727e8b
+# Tags:  dbe7e4ddd382b4b6ea4dc08b06692729e3727e8b
 FROM gcr.io/distroless/cc-debian10:dbe7e4ddd382b4b6ea4dc08b06692729e3727e8b
