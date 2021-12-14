@@ -1,8 +1,0 @@
-# Tags:  30133c711fd9e1d5360f8ae22730230010f0a9d2, 3829d9906dfa0efa849f65a574fa2d3caaf3f49b, 6b96c38b0f351b79750bd2b8bc0f77dc434afe00, 6bb9c6d8f814cf1c7e10555589228363bb4634a3, 7e0b5cc12f9b992e6bb28f591d1a287e452f4139, cf43e643171e4e5413fa766d124cbd83c8ac6883, ff47e965d9110feb11885dda5a8820a365127346
-FROM gcr.io/distroless/cc-debian10:30133c711fd9e1d5360f8ae22730230010f0a9d2
-FROM gcr.io/distroless/cc-debian10:3829d9906dfa0efa849f65a574fa2d3caaf3f49b
-FROM gcr.io/distroless/cc-debian10:6b96c38b0f351b79750bd2b8bc0f77dc434afe00
-FROM gcr.io/distroless/cc-debian10:6bb9c6d8f814cf1c7e10555589228363bb4634a3
-FROM gcr.io/distroless/cc-debian10:7e0b5cc12f9b992e6bb28f591d1a287e452f4139
-FROM gcr.io/distroless/cc-debian10:cf43e643171e4e5413fa766d124cbd83c8ac6883
-FROM gcr.io/distroless/cc-debian10:ff47e965d9110feb11885dda5a8820a365127346
